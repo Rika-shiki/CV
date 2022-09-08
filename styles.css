@@ -1,0 +1,39 @@
+body{
+    background-image: url("bg.png");
+}
+h1,h2,h3,h4,h5,h6{
+    color: darkred;
+
+}
+.contact{
+    background-image:url("wal.jpg");
+}
+#cp{
+    color: aliceblue ;
+}
+#cert::after{
+    color: rgb(160, 95, 95);
+}
+#cert:hover{
+    background-color: aquamarine;
+}
+#cert:visited{
+    color: red;
+}
+.box{
+    color: aliceblue;
+    border-style: solid;
+    padding-left: 50px;
+    background-image: url("https://thumbs.gfycat.com/ChubbyGregariousBettong.webp");
+}
+
+#cert:hover #only{
+    display: block;
+}
+#only{
+    display: none;
+}
+#contact_top:hover{
+    background-color:aqua;
+
+}
